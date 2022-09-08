@@ -1,4 +1,4 @@
-# App para organização de projetos de engenharia
+# App para organização de projetos
 
 De acordo com o escopo da empresa, o ciclo de um projeto tem a seguinte estrutura:
 
